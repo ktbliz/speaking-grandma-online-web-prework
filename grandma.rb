@@ -22,7 +22,7 @@ def speak_to_grandma(statement)
   end
 end
 
-statement2 = HI
+statement2 = "HI"
 
 if statement2 == statement2.upcase
   puts "yay"
