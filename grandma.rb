@@ -21,3 +21,9 @@ def speak_to_grandma(statement)
     return "HUH?! SPEAK UP, SONNY!"
   end
 end
+
+statement2 = HI
+
+if statement2 == statement2.upcase
+  puts "yay"
+end
